@@ -1,6 +1,6 @@
 # JavaScript Learning Plan — Phantoms Team
 
-This repository contains the practical JavaScript tasks completed by members of the **Phantoms** university graduation team.
+This repository contains the practical JavaScript tasks for the university graduation team.
 
 The purpose of this repository is to build a strong JavaScript foundation through 14 days of guided study, daily practice, and a final project. The plan covers JavaScript basics, data structures, functions, the DOM, events, and browser storage.
 
