@@ -38,7 +38,7 @@ console.log('\n');
 
 // Hight in meter and weight in kilogram;
 let hcm = 154; //Hight in centimeter
-let hight = hcm / 100; //Hight in kilometer
+let hight = hcm / 100; //Hight in meter
 let weight = 52;
 
 // Calculating BMI 
